@@ -6,3 +6,6 @@ Always raise a Pull Request (PR).
 
 ## Project Status
 Successfully pushed to GitHub!
+
+## About Me
+Learning Git and Github for the first time!
