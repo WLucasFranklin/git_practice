@@ -1,5 +1,7 @@
 # Simple Calculator
 
+# This is a comment
+
 def add(a, b):
     return a + b
 
