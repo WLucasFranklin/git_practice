@@ -29,3 +29,6 @@ Learning Git and Github for the first time!
 
 ## Contributions
 Raymond
+
+# Testing Branch Protection
+This change should be blocked by branch protection!
