@@ -1,3 +1,3 @@
-## [Your Name]
+## Ray Thomas
 - Added percentage function
-- Date: [Today's date]
+- Date: 05/05/2026
